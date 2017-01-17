@@ -1,0 +1,2 @@
+# amsproject
+Alumni Management System
